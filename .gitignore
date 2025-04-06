@@ -1,0 +1,19 @@
+.qodo
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.vscode-test/
+
+# Logs
+*.log
+
+# Env files
+.env
+eddie.config.json
+
+# OS junk
+.DS_Store
+Thumbs.db
